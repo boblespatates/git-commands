@@ -2,12 +2,6 @@
 
 ## Usefull git commands
 
-Download and install :
-
- * Git (https://git-scm.com/)
- * Node JS (https://nodejs.org/en/)
- * Mongo DB (https://www.mongodb.com/)
-
 Enlever les changements non commités:
 ```
 git checkout --.
